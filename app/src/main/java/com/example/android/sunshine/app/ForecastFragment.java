@@ -24,7 +24,7 @@ import java.util.List;
  * Created by Anry on 08.05.16.
  */
 
-public static class ForecastFragment extends Fragment {
+public class ForecastFragment extends Fragment {
 
     private ArrayAdapter<String> mForecastAdapter;
 
